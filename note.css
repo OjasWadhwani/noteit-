@@ -1,0 +1,77 @@
+.header
+{
+	/*width: 92%;*/
+	height: 50px;
+	/*font-size: 30px;*/
+	padding-right: 5%;
+	/*text-align: center;*/
+}
+a
+{
+	/*font-size: 30px;*/
+}
+.options
+{
+	box-shadow: 1px 1px;
+	/*padding: 10%;*/
+	background-color: #7B68EE;
+	float: left;
+	height: 330px;
+	margin-top: 70px;
+	margin-left: 70px;
+	margin-right: 20px;
+	font-size: 18px;
+	padding-top: 03px;
+    /*-moz-box-shadow:    3px 3px 5px 6px #ccc;*/
+    /*-webkit-box-shadow: 3px 3px 5px 6px #ccc;*/
+  	box-shadow:0px 0px 5px 5px #ccc;
+  	/*text-align: center;*/
+}
+.notespanel
+{
+	/*box-shadow: 1;*/
+	background-color: #7B68EE;
+	float: left;
+	height: 330px;	
+	margin-top: 70px;
+	/*margin-left: 20px;*/
+	margin-right: 20px;
+	padding-top: 20px; 
+	box-shadow:0px 0px 5px 5px #ccc;
+}
+.form1
+{
+	text-align: center;
+	/*border-radius: 50px;*/
+}
+/*#note
+{
+	border-radius:0px;
+	box-shadow:         0px 0px 5px 5px #ccc;
+	padding-left: 10px;
+	padding-right: 10px;
+}*/
+#title
+{
+	height: 50px;
+	width:500px;
+	display: inline;
+}
+#note
+{
+	height: 200px;
+	width:500px;
+	display: inline;
+}
+#submit
+{
+	display: inline;
+}
+/*.tiles
+{
+	height:50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	box-shadow: 1px 1px;
+	background-color: blue;
+}*/
